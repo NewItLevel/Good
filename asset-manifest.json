@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SeriyVoz/static/css/main.459aa3e5.chunk.css",
+    "main.js": "/SeriyVoz/static/js/main.32d084fe.chunk.js",
+    "main.js.map": "/SeriyVoz/static/js/main.32d084fe.chunk.js.map",
+    "runtime-main.js": "/SeriyVoz/static/js/runtime-main.a29e562e.js",
+    "runtime-main.js.map": "/SeriyVoz/static/js/runtime-main.a29e562e.js.map",
+    "static/js/2.0669c008.chunk.js": "/SeriyVoz/static/js/2.0669c008.chunk.js",
+    "static/js/2.0669c008.chunk.js.map": "/SeriyVoz/static/js/2.0669c008.chunk.js.map",
+    "index.html": "/SeriyVoz/index.html",
+    "precache-manifest.1eb093a23256928a4417db3e12defc07.js": "/SeriyVoz/precache-manifest.1eb093a23256928a4417db3e12defc07.js",
+    "service-worker.js": "/SeriyVoz/service-worker.js",
+    "static/css/main.459aa3e5.chunk.css.map": "/SeriyVoz/static/css/main.459aa3e5.chunk.css.map",
+    "static/js/2.0669c008.chunk.js.LICENSE.txt": "/SeriyVoz/static/js/2.0669c008.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a29e562e.js",
+    "static/js/2.0669c008.chunk.js",
+    "static/css/main.459aa3e5.chunk.css",
+    "static/js/main.32d084fe.chunk.js"
+  ]
+}
